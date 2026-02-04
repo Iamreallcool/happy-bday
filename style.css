@@ -49,11 +49,12 @@
   text-align: center;
 }
 
-#inside-pic {
-  width: 150px;
-  height: 150px;
+#bold-message {
+    color: black;
+  font-family: Courier;
+  font-size: 30pt;
+  text-align: center;
 }
-
 #message {
   color: black;
   font-family: Courier;
